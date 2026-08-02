@@ -3,7 +3,7 @@ const frases = [
     "Preciosa",
     "Hermosa",
     "Te Amo",
-    "Eres Todo Lo Que Quiero Conmigo",
+    "Eres Todo Lo Que Quiero",
     "Eres Maravillosa",
     "Me Encantas Mucho"
 ];
